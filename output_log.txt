@@ -1,0 +1,237 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.6881]
+    Renderer: NVIDIA GeForce GTX 1060 6GB
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.Linq.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NAudio.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NAudio.dll into Unity Child Domain
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NVorbis.dll (this message is harmless)
+Loading D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\NVorbis.dll into Unity Child Domain
+- Completed reload, in  0.157 seconds
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initialized touch support.
+UnloadTime: 0.940834 ms
+RimWorld 0.14.1249 rev942
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Non platform assembly: data-15F56008 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15F56008.dll
+Community Core Library :: v0.14.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Non platform assembly: data-16002008 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16002008.dll
+Non platform assembly: data-1600AF48 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1600AF48.dll
+Non platform assembly: data-16014F78 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16014F78.dll
+Platform assembly: D:\Games\Steam\steamapps\common\RimWorld\RimWorldWin_Data\Managed\System.Configuration.dll (this message is harmless)
+Non platform assembly: data-1602E8D8 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1602E8D8.dll
+Non platform assembly: data-16067970 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16067970.dll
+Non platform assembly: data-16069680 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16069680.dll
+Non platform assembly: data-16072008 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16072008.dll
+Non platform assembly: data-16073410 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16073410.dll
+Non platform assembly: data-16074618 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-16074618.dll
+Non platform assembly: data-1609D9E0 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-1609D9E0.dll
+Non platform assembly: data-160AAE20 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-160AAE20.dll
+Non platform assembly: data-160E9440 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-160E9440.dll
+Non platform assembly: data-15DE9008 (this message is harmless)
+Fallback handler could not load library D:/Games/Steam/steamapps/common/RimWorld/RimWorldWin_Data/Mono/data-15DE9008.dll
+Def-linked translation error: Found no Verse.RecipeDef named HealScars to match HealScars.label
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Def-linked translation error: Found no Verse.RecipeDef named HealScars to match HealScars.description
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Def-linked translation error: Found no Verse.RecipeDef named InstallGlassEye to match InstallGlassEye.label
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Def-linked translation error: Found no Verse.RecipeDef named InstallGlassEye to match InstallGlassEye.description
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Def-linked translation error: Found no Verse.RecipeDef named InstallCrystalEye to match InstallCrystalEye.label
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Def-linked translation error: Found no Verse.RecipeDef named InstallCrystalEye to match InstallCrystalEye.description
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Queueing Library Initialization
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Failed to find any texture while constructing Multi(initPath=Things/Building/Production/TableBionics, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Failed to find any texture while constructing Multi(initPath=Things/Building/Production/TableSimpleProsthetics, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Failed to find any texture while constructing Multi(initPath=Things/Building/Production/TableSurrogates, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Failed to find any texture while constructing Multi(initPath=Things/Building/Production/TableSynthetics, color=RGBA(1.000, 1.000, 1.000, 1.000), colorTwo=RGBA(1.000, 1.000, 1.000, 1.000))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Initialized the EdB Prepare Carefully mod
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Library Core :: Validations :: Validated
+	ModHelperDef :: Community Core Library :: Passed validation, requesting v0.14.1
+	ModHelperDef :: Relations Tab :: Passed validation, requesting v0.14.0
+	ModHelperDef :: Follow Me! :: Passed validation, requesting v0.14.0
+	ModHelperDef :: Zoom to Mouse :: Passed validation, requesting v0.14.0
+	ModHelperDef :: Area Unlocker :: Passed validation, requesting v0.14.0
+	ModHelperDef :: Work Tab :: Passed validation, requesting v0.14.0
+	ModHelperDef :: Hospitality :: Passed validation, requesting v0.14.0
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Advanced Research :: Validations :: Validated
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Minimap Controller :: Validations :: Validated
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Injection Controller :: Initialization :: Initialized
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Advanced Research :: Initialization :: No advanced research defined, hybernating...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Help System :: Completed in 00:00:00.8861351
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Help Generator :: Initialization :: Initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FluffyTabs :: No label was set for WorkGiverDef DoBillsTableSurrogates please inform the author of Expanded Prosthetics and Organ Engineering.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FluffyTabs :: No label was set for WorkGiverDef DoBillsTableSynthetics please inform the author of Expanded Prosthetics and Organ Engineering.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FluffyTabs :: No label was set for WorkGiverDef DoBillsUpgradingStation please inform the author of Expanded Prosthetics and Organ Engineering.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FluffyTabs :: No label was set for WorkGiverDef DoBillsSimpleProstheticWorkbench please inform the author of Expanded Prosthetics and Organ Engineering.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FluffyTabs :: No label was set for WorkGiverDef DoBillsBasicProstheticWorkbench please inform the author of Expanded Prosthetics and Organ Engineering.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+FluffyTabs :: No label was set for WorkGiverDef DoBillsBionicWorkbench please inform the author of Expanded Prosthetics and Organ Engineering.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Library Core :: Initialization :: Mod Configuration Menus initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Minimap Controller :: Initialization :: Initialized
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Community Core Library :: Initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Hospitality injected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.193434 ms
+
+Unloading 88 unused Assets to reduce memory usage. Loaded Objects now: 7124.
+Total: 70.307129 ms (FindLiveObjects: 25.212648 ms CreateObjectMapping: 0.248323 ms MarkObjects: 44.745514 ms  DeleteObjects: 0.099500 ms)
+
+Initializing map from file Colome with mods Core, 729577707, 727862986, 708455313, 709317151, 712141500, 715565262, 715759739, 715565817, 734224899, 725153576, 725219116, 730854291, 732515888, 730360526, 732001052, 733997423, 735106432, 672718149, 724766205, 725623521, 706426033, 725747149, 722088116, 722085442, 725576127, 725956940, und 704305425
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Exception from asynchronous event: System.ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[System.Int32].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at Verse.DefMap`2[Verse.WorkTypeDef,System.Int32].get_Item (Verse.WorkTypeDef def) [0x00000] in <filename unknown>:0 
+  at Fluffy_Tabs.PawnPrioritiesTracker.InitPriorityCache () [0x00000] in <filename unknown>:0 
+  at Fluffy_Tabs.PawnPrioritiesTracker..ctor (Verse.Pawn pawn) [0x00000] in <filename unknown>:0 
+  at Fluffy_Tabs.MapComponent_Priorities.WorkgiverTracker (Verse.Pawn pawn) [0x00000] in <filename unknown>:0 
+  at Fluffy_Tabs.Widgets.Priorities (Verse.Pawn pawn) [0x00000] in <filename unknown>:0 
+  at Fluffy_Tabs.Detours_WorkSettings._SetPriority (Verse.WorkTypeDef w, Int32 priority) [0x00000] in <filename unknown>:0 
+  at Hospitality.Pawn_WorkSettings.ExposeData (RimWorld.Pawn_WorkSettings _this) [0x00000] in <filename unknown>:0 
+  at Verse.PostLoadInitter.DoAllPostLoadInits () [0x00000] in <filename unknown>:0 
+  at Verse.Game.LoadData () [0x00000] in <filename unknown>:0 
+  at Verse.SavedGameLoader.LoadGameFromSaveFile (System.String fileName) [0x00000] in <filename unknown>:0 
+  at Verse.RootMap.<Start>m__5A3 () [0x00000] in <filename unknown>:0 
+  at Verse.LongEventHandler.RunEventFromAnotherThread (System.Action action) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.652311 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 7168.
+Total: 117.010994 ms (FindLiveObjects: 0.356091 ms CreateObjectMapping: 0.541692 ms MarkObjects: 116.059044 ms  DeleteObjects: 0.053599 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4508 -> priority: 1 
+  Thread -> id: 248c -> priority: 1 
